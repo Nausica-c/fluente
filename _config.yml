@@ -1,0 +1,8 @@
+title: Fluente
+email: info@fluente.it
+description: >-
+  Impara le lingue velocemente nel 2026.
+baseurl: "/fluente" # Importante: il nome della tua repository
+url: "https://Nausica-c.github.io"
+markdown: kramdown
+theme: minima # Opzionale, lo useremo solo come base tecnica
