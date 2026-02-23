@@ -1,8 +1,20 @@
+# Informazioni sul Sito
 title: Fluente
 email: info@fluente.it
 description: >-
-  Impara le lingue velocemente nel 2026.
-baseurl: "/fluente" # Importante: il nome della tua repository
+  Scopri i metodi più veloci e i migliori strumenti per imparare 
+  le lingue nel 2026 studiando solo 15 minuti al giorno.
+
+# Configurazione URL (Fondamentale per GitHub Pages)
+baseurl: "/fluente" 
 url: "https://Nausica-c.github.io"
+
+# Social e Link
+pinterest_username: Nausicac
+
+# Impostazioni di Build
 markdown: kramdown
-theme: minima # Opzionale, lo useremo solo come base tecnica
+theme: minima # Jekyll richiede un tema di base, ma useremo i tuoi stili personalizzati
+exclude:
+  - Gemfile
+  - Gemfile.lock
