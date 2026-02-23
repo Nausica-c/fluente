@@ -362,3 +362,34 @@ footer a:hover {
         white-space: nowrap;
     }
 }
+/* =========================================
+   13. Stili Specifici per Pillar Page e Box 
+========================================= */
+.box {
+    padding: 25px;
+    margin: 35px 0;
+    border-radius: 0 8px 8px 0;
+    border-left: 5px solid;
+    background-color: var(--bg-light);
+}
+.box-info {
+    background-color: var(--babbel-light);
+    border-color: var(--babbel-blue);
+}
+.box-success {
+    background-color: #e8f5e9;
+    border-color: #4caf50;
+}
+.box h3, .box h4 {
+    margin-top: 0;
+    color: var(--text-dark);
+}
+.faq-item {
+    margin-bottom: 20px;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 15px;
+}
+.faq-item h4 {
+    color: var(--babbel-blue);
+    margin-bottom: 10px;
+}
