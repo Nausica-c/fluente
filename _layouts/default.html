@@ -2,19 +2,55 @@
 <html lang="it">
 <head>
     <meta charset="UTF-8">
-    <title>{{ page.title }} - Fluente</title>
-    <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
-    <meta name="description" content="{{ page.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    
+    <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
+    
+    <style>
+        /* Stili extra per i box direttamente nel layout */
+        .box { padding: 25px; margin: 35px 0; border-radius: 0 8px 8px 0; border-left: 5px solid; }
+        .box-info { background-color: var(--babbel-light); border-color: var(--babbel-blue); }
+        .box-success { background-color: #e8f5e9; border-color: #4caf50; }
+    </style>
 </head>
 <body>
-    <div class="disclosure"><strong>Trasparenza:</strong>...</div>
-    
-    {% include header.html %} <main>
+
+    <div class="disclosure">
+        <strong>Trasparenza:</strong> Se acquisti tramite i nostri link, potremmo ricevere una commissione.
+    </div>
+
+    <header>
+        <a href="{{ '/' | relative_url }}" class="logo">Fluente</a>
+        <nav>
+            <ul>
+                <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
         <article class="article-container">
             <h1>{{ page.title }}</h1>
-            {{ content }} </article>
+            
+            {{ content }}
+
+            <div class="cta-container" style="background-color: var(--babbel-light); border: 2px solid var(--babbel-blue); margin-top: 50px;">
+                <h3 style="color: var(--babbel-blue);">Pronto a iniziare?</h3>
+                <p>Usa il metodo consigliato da Fluente per imparare in 15 minuti al giorno.</p>
+                <a href="https://www.babbel.com" class="cta-button">PROVA BABBEL GRATIS</a>
+            </div>
+        </article>
     </main>
 
-    {% include footer.html %}
+    <footer>
+        <p><strong>Fluente</strong> - Il tuo compagno nel viaggio linguistico.</p>
+        <div class="footer-links">
+            <a href="{{ '/about.html' | relative_url }}">Chi Siamo</a> | 
+            <a href="{{ '/privacy.html' | relative_url }}">Privacy</a>
+        </div>
+    </footer>
 </body>
 </html>
