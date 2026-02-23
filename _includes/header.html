@@ -1,54 +1,33 @@
-<div class="disclosure-bar" style="background: #f8f9fa; border-bottom: 1px solid #e9ecef; padding: 8px 15px; text-align: center; font-size: 0.8rem; color: #6c757d;">
-    <div class="main-wrapper">
-        <strong>Trasparenza:</strong> Questo sito è supportato dai lettori. Se acquisti tramite i nostri link, potremmo ricevere una commissione. <a href="{{ '/disclaimer' | relative_url }}" style="color: #6c757d; text-decoration: underline;">Scopri di più</a>.
-    </div>
+<div class="disclosure">
+    <strong>Trasparenza:</strong> Questo sito è supportato dai lettori. Se acquisti un corso Babbel tramite i nostri link, potremmo ricevere una commissione senza costi aggiuntivi per te.
 </div>
 
-<header style="background: #ffffff; padding: 20px 0; border-bottom: 1px solid #eee; position: sticky; top: 0; z-index: 1000; box-shadow: 0 2px 10px rgba(0,0,0,0.02);">
-    <div class="main-wrapper" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px;">
+<header>
+    <div class="header-top">
+        <a href="/" class="logo">Fluente</a>
         
-        <a href="{{ '/' | relative_url }}" class="logo" style="font-size: 1.8rem; font-weight: 900; color: #00355f; text-decoration: none; letter-spacing: -1px;">
-            {{ site.title }}<span style="color: #ff6f00;">.</span>
-        </a>
-
-        <nav>
-            <ul class="nav-menu" style="list-style: none; display: flex; gap: 18px; margin: 0; padding: 0; flex-wrap: wrap;">
-                <li><a href="{{ '/inglese/' | relative_url }}" class="nav-link">Inglese</a></li>
-                <li><a href="{{ '/spagnolo/' | relative_url }}" class="nav-link">Spagnolo</a></li>
-                <li><a href="{{ '/francese/' | relative_url }}" class="nav-link">Francese</a></li>
-                <li><a href="{{ '/tedesco/' | relative_url }}" class="nav-link">Tedesco</a></li>
-                <li><a href="{{ '/portoghese/' | relative_url }}" class="nav-link">Portoghese</a></li>
-                <li><a href="{{ '/blog/' | relative_url }}" style="color: #ff6f00; font-weight: 700; text-decoration: none;">Blog</a></li>
-            </ul>
-        </nav>
+        <div class="header-banner">
+            <img src="https://via.placeholder.com/720x90.png?text=Banner+Promozionale+720x90" alt="Banner Pubblicitario" width="720" height="90">
+        </div>
     </div>
+
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/inglese/">Inglese</a></li>
+            <li><a href="/francese/">Francese</a></li>
+            <li><a href="/spagnolo/">Spagnolo</a></li>
+            <li><a href="/tedesco/">Tedesco</a></li>
+            <li><a href="/portoghese/">Portoghese</a></li>
+            <li class="dropdown">
+                <a href="#">Altre Lingue ▼</a>
+                <div class="dropdown-content">
+                    <a href="/olandese/">Olandese</a>
+                    <a href="/svedese/">Svedese</a>
+                    <a href="/polacco/">Polacco</a>
+                </div>
+            </li>
+            <li><a href="/blog/">Blog</a></li>
+        </ul>
+    </nav>
 </header>
-
-<div class="top-ad-area" style="padding: 20px 0; background: #fafafa; text-align: center; border-bottom: 1px solid #eee;">
-    <div class="main-wrapper">
-        <p style="font-size: 0.65rem; color: #adb5bd; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 1px;">Sponsorizzato</p>
-        {% include ad-top.html %}
-    </div>
-</div>
-
-<style>
-    .nav-link {
-        text-decoration: none;
-        color: #333;
-        font-weight: 600;
-        font-size: 0.95rem;
-        transition: color 0.2s ease;
-    }
-    .nav-link:hover {
-        color: #ff6f00;
-    }
-    @media (max-width: 768px) {
-        .nav-menu {
-            gap: 10px !important;
-            justify-content: center;
-        }
-        .logo {
-            margin: 0 auto;
-        }
-    }
-</style>
