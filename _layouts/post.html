@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="main-wrapper post-layout" style="padding: 60px 20px; display: flex; gap: 50px; align-items: flex-start;">
+    
+    <article style="flex: 1; min-width: 0;">
+        
+        <header style="margin-bottom: 40px; border-bottom: 1px solid var(--border-color); padding-bottom: 30px;">
+            <a href="{{ site.baseurl }}/{{ page.categories | first }}/" style="background: #fff0e6; color: var(--cta-orange); padding: 6px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: bold; text-transform: uppercase; text-decoration: none; display: inline-block; margin-bottom: 15px;">
+                {{ page.categories | first }}
+            </a>
+            
+            <h1 style="font-size: 2.8rem; line-height: 1.2; color: var(--babbel-blue); margin-bottom: 15px;">
+                {{ page.title }}
+            </h1>
+            
+            <div style="display: flex; align-items: center; gap: 15px; color: var(--text-light); font-size: 0.9rem;">
+                <span>📅 Aggiornato il: {{ page.date | date: "%d/%m/%Y" }}</span>
+                <span>✍️ Scritto da: {{ site.title }} Team</span>
+            </div>
+        </header>
+
+        <div class="post-content">
+            {{ content }}
+        </div>
+
+        <div style="background: var(--bg-light); border: 2px dashed var(--cta-orange); padding: 40px; text-align: center; border-radius: 16px; margin-top: 60px;">
+            <h3 style="margin-bottom: 15px;">Hai letto fino a qui? È il momento di iniziare.</h3>
+            <p style="margin-bottom: 25px; color: var(--text-light);">Non rimandare l'apprendimento. Bastano 15 minuti al giorno per cambiare il tuo futuro.</p>
+            <a href="{{ site.babbel_affiliate_link }}" target="_blank" rel="nofollow sponsored" class="btn">Prova il Metodo Babbel</a>
+        </div>
+
+    </article>
+
+    <aside class="sidebar" style="width: 300px; flex-shrink: 0; position: sticky; top: 100px;">
+        
+        <div style="margin-bottom: 30px; text-align: center;">
+            <span style="font-size: 0.7rem; color: #adb5bd; text-transform: uppercase; letter-spacing: 1px; display: block; margin-bottom: 8px;">Sponsorizzato</span>
+            {% include ad-sidebar.html %}
+        </div>
+
+        <div style="background: var(--bg-light); padding: 25px; border-radius: 12px; border: 1px solid var(--border-color);">
+            <h4 style="color: var(--babbel-blue); margin-bottom: 15px; font-size: 1.1rem;">Il Metodo Fluente</h4>
+            <p style="font-size: 0.9rem; color: var(--text-main); margin-bottom: 20px; line-height: 1.5;">
+                Crediamo che la costanza batta il talento. Studiare 15 minuti al giorno è l'unico modo scientificamente provato per interiorizzare una nuova lingua nel lungo periodo.
+            </p>
+            <a href="{{ '/metodo-studio/' | relative_url }}" style="font-size: 0.9rem; font-weight: bold; text-decoration: none; color: var(--cta-orange);">Scopri la nostra filosofia &rarr;</a>
+        </div>
+
+    </aside>
+
+</div>
+
+<style>
+    @media (max-width: 950px) {
+        .post-layout {
+            flex-direction: column; /* Impila la colonna testo e la sidebar una sull'altra */
+        }
+        .sidebar {
+            width: 100% !important;
+            position: static; /* Rimuove lo sticky su mobile per non coprire il testo */
+            margin-top: 40px;
+        }
+    }
+</style>
