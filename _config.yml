@@ -1,0 +1,14 @@
+title: Fluente
+description: Guida completa per imparare lingue nel 2026.
+baseurl: "" # Lascia vuoto se è il dominio principale
+url: "https://tuo-utente.github.io"
+
+markdown: kramdown
+theme: minima # Opzionale, useremo i nostri layout personalizzati
+
+# Defaults per i metadati degli articoli
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
