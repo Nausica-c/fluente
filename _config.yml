@@ -1,8 +1,14 @@
 title: Fluente
-email: tua@email.com
-description: Impara le lingue nel 2026
-baseurl: "" # Lascia vuoto se è il dominio principale
-url: "https://tuonome.github.io"
+description: "Impara le lingue velocemente nel 2026"
+baseurl: "" 
+url: "https://tuonome.github.io" # Sostituisci con il tuo URL
 
+# Configurazione Markdown
 markdown: kramdown
+highlighter: rouge
 permalink: /blog/:title/
+
+# Escludi file non necessari dal sito finale
+exclude:
+  - README.md
+  - .github/
