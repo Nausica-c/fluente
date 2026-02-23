@@ -323,3 +323,98 @@ footer a:hover {
         padding: 0 15px;
     }
 }
+/* =========================================
+   ADS / BANNERS - Responsive mobile (2x 728x90 + 1x 300x250)
+========================================= */
+
+/* Wrapper generale ads: evita overflow e centra */
+.ad-slot {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 24px 0;
+  overflow: hidden;           /* IMPORTANT: niente scroll orizzontale */
+}
+
+/* (Opzionale) etichetta "Pubblicità" */
+.ad-slot::before {
+  content: "Pubblicità";
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--text-gray);
+  margin-bottom: 8px;
+}
+
+/* Contenitore interno: mantiene dimensioni e scala */
+.ad-inner {
+  transform-origin: top center;
+}
+
+/* Iframe/immagine/script dentro al banner */
+.ad-inner iframe,
+.ad-inner img,
+.ad-inner ins {
+  display: block;
+  border: 0;
+}
+
+/* --- Desktop / Tablet: banner nelle dimensioni native --- */
+.ad-728x90 .ad-inner {
+  width: 728px;
+  height: 90px;
+}
+
+.ad-300x250 .ad-inner {
+  width: 300px;
+  height: 250px;
+}
+
+/* =========================================
+   Mobile: scala i 728x90 per entrare nello schermo
+   (senza rompere layout o fare overflow)
+========================================= */
+@media (max-width: 768px) {
+
+  /* Riduci margini tra ads e contenuti su mobile */
+  .ad-slot {
+    margin: 18px 0;
+  }
+
+  /* 728x90: scala in base alla larghezza viewport (con padding) */
+  .ad-728x90 .ad-inner {
+    /* viewport utile: 100vw - 30px (circa padding laterale) */
+    --vw: calc(100vw - 30px);
+    transform: scale(calc(var(--vw) / 728));
+    /* spazio reale occupato dopo scaling */
+    height: calc(90px * (var(--vw) / 728));
+  }
+
+  /* Per evitare che diventi troppo piccolo su schermi stretti */
+  @supports (transform: scale(1)) {
+    .ad-728x90 .ad-inner {
+      /* Limita la scala minima */
+      transform: scale(clamp(0.55, calc(var(--vw) / 728), 1));
+      height: calc(90px * clamp(0.55, calc(var(--vw) / 728), 1));
+    }
+  }
+
+  /* 300x250: resta centrato e non supera lo schermo */
+  .ad-300x250 .ad-inner {
+    max-width: 100%;
+  }
+
+  /* Se vuoi che il 300x250 si riduca leggermente su schermi molto piccoli */
+  .ad-300x250 .ad-inner {
+    --vw2: calc(100vw - 30px);
+    transform: scale(clamp(0.85, calc(var(--vw2) / 300), 1));
+    height: calc(250px * clamp(0.85, calc(var(--vw2) / 300), 1));
+  }
+}
+
+/* Extra: evita che qualsiasi iframe ads rompa il layout */
+.ad-slot iframe {
+  max-width: 100% !important;
+}
