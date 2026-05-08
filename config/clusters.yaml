@@ -1,0 +1,78 @@
+clusters:
+
+  beginner:
+    label: "Beginner"
+    description: "Contenuti base per chi parte da zero"
+    priority: 1
+    tone: simple
+    goal: acquisition
+
+  metodo:
+    label: "Metodo"
+    description: "Tecniche e sistemi per imparare più velocemente"
+    priority: 2
+    tone: authoritative
+    goal: conversion
+
+  viaggi:
+    label: "Viaggio"
+    description: "Frasi e situazioni reali da viaggio"
+    priority: 3
+    tone: practical
+    goal: engagement
+
+  business:
+    label: "Business"
+    description: "Lingua per lavoro e carriera internazionale"
+    priority: 4
+    tone: professional
+    goal: conversion
+
+  mindset:
+    label: "Mindset"
+    description: "Motivazione e psicologia dell’apprendimento"
+    priority: 5
+    tone: motivational
+    goal: retention
+
+  grammatica_pratica:
+    label: "Grammatica pratica"
+    description: "Grammatica applicata, non teorica"
+    priority: 6
+    tone: educational
+    goal: retention
+
+  vocabolario:
+    label: "Vocabolario"
+    description: "Parole e frasi ad alta utilità"
+    priority: 7
+    tone: practical
+    goal: traffic
+
+  errori:
+    label: "Errori comuni"
+    description: "Errori tipici degli studenti e come evitarli"
+    priority: 8
+    tone: corrective
+    goal: engagement
+
+  curiosita:
+    label: "Curiosità"
+    description: "Contenuti virali e interessanti sulla lingua"
+    priority: 9
+    tone: entertaining
+    goal: traffic
+
+  lifelong_learner:
+    label: "Lifelong Learner"
+    description: "Contenuti avanzati e di mantenimento"
+    priority: 10
+    tone: advanced
+    goal: retention
+
+speaking:
+    label: "Speaking"
+    description: "Conversazione reale e fluidità nel parlare inglese"
+    priority: 2
+    tone: practical
+    goal: conversion
