@@ -21,9 +21,17 @@ def extract_title(filename):
     return filename.replace(".md", "").replace("-", " ")
 
 
+def create_url(filename):
+    """
+    🔗 converte file .md in URL SEO-friendly
+    """
+    slug = filename.replace(".md", "")
+    return f"/{slug}/"
+
+
 def add_internal_links(content, current_file):
     """
-    🔗 aggiunge link ad altri articoli
+    🔗 aggiunge link ad altri articoli (SEO-friendly)
     """
 
     articles = get_all_articles()
@@ -41,7 +49,7 @@ def add_internal_links(content, current_file):
 
     for a in selected:
         title = extract_title(a)
-        url = f"/_posts/{a}"
+        url = create_url(a)
         links_block += f"- [{title}]({url})\n"
 
     return content + links_block
