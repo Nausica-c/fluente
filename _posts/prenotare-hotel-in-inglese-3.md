@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Prenotare hotel in inglese
 
-### Caso concreto:
+### Immagina questo:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ prenotare hotel in inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Usa subito nella vita quotidiana
 - Ripeti ogni giorno per 10 minuti
-- Impara in contesto, non parole isolate
+- Ascolta e ripeti frasi reali
+- Usa subito nella vita quotidiana
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [come imparare viaggi velocemente](/_posts/come-imparare-viaggi-velocemente.md)
-- [capire inglese semplice 4](/_posts/capire-inglese-semplice-4.md)
-- [come imparare curiosita velocemente](/_posts/come-imparare-curiosita-velocemente.md)
+- [ordinare cibo all’estero 0](/_posts/ordinare-cibo-all’estero-0.md)
+- [errori comuni in business](/_posts/errori-comuni-in-business.md)
+- [come usare tempi verbali inglese 0](/_posts/come-usare-tempi-verbali-inglese-0.md)
 
 ---
 

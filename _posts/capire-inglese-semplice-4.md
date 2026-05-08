@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Capire inglese semplice
 
-### Situazione reale:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ capire inglese semplice.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Impara in contesto, non parole isolate
 - Usa subito nella vita quotidiana
-- Ripeti ogni giorno per 10 minuti
+- Impara in contesto, non parole isolate
+- Ascolta e ripeti frasi reali
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [il metodo più semplice per curiosita](/_posts/il-metodo-più-semplice-per-curiosita.md)
-- [guida completa a viaggi per principianti](/_posts/guida-completa-a-viaggi-per-principianti.md)
-- [guida completa a errori per principianti](/_posts/guida-completa-a-errori-per-principianti.md)
+- [perché sbaglio inglese 7](/_posts/perché-sbaglio-inglese-7.md)
+- [il metodo più semplice per viaggi](/_posts/il-metodo-più-semplice-per-viaggi.md)
+- [strategia avanzata di viaggi](/_posts/strategia-avanzata-di-viaggi.md)
 
 ---
 

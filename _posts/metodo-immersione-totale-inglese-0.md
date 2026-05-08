@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Metodo immersione totale inglese
 
-### Esempio pratico:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ metodo immersione totale inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ascolta e ripeti frasi reali
 - Usa subito nella vita quotidiana
-- Ripeti ogni giorno per 10 minuti
+- Impara in contesto, non parole isolate
+- Ascolta e ripeti frasi reali
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [come imparare vocabolario velocemente](/_posts/come-imparare-vocabolario-velocemente.md)
-- [perché fallisci con grammatica pratica e come risolvere](/_posts/perché-fallisci-con-grammatica-pratica-e-come-risolvere.md)
-- [come imparare grammatica pratica velocemente](/_posts/come-imparare-grammatica-pratica-velocemente.md)
+- [parole inglese strane significato 8](/_posts/parole-inglese-strane-significato-8.md)
+- [strategia avanzata di grammatica pratica](/_posts/strategia-avanzata-di-grammatica-pratica.md)
+- [il metodo più semplice per metodo](/_posts/il-metodo-più-semplice-per-metodo.md)
 
 ---
 

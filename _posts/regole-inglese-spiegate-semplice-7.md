@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Regole inglese spiegate semplice
 
-### Esempio pratico:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ regole inglese spiegate semplice.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ascolta e ripeti frasi reali
 - Impara in contesto, non parole isolate
 - Usa subito nella vita quotidiana
+- Ascolta e ripeti frasi reali
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [come imparare mindset velocemente](/_posts/come-imparare-mindset-velocemente.md)
-- [perché fallisci con business e come risolvere](/_posts/perché-fallisci-con-business-e-come-risolvere.md)
-- [metodo immersione totale inglese 6](/_posts/metodo-immersione-totale-inglese-6.md)
+- [motivazione per studiare lingue 5](/_posts/motivazione-per-studiare-lingue-5.md)
+- [guida completa a viaggi per principianti](/_posts/guida-completa-a-viaggi-per-principianti.md)
+- [metodo pratico per curiosita](/_posts/metodo-pratico-per-curiosita.md)
 
 ---
 

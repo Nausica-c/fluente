@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Metodo immersione totale inglese
 
-### Situazione reale:
+### Immagina questo:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,8 +15,8 @@ metodo immersione totale inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ripeti ogni giorno per 10 minuti
 - Impara in contesto, non parole isolate
+- Ascolta e ripeti frasi reali
 - Usa subito nella vita quotidiana
 
 ### Errore comune
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [guida completa a viaggi per principianti](/_posts/guida-completa-a-viaggi-per-principianti.md)
-- [perché fallisci con beginner e come risolvere](/_posts/perché-fallisci-con-beginner-e-come-risolvere.md)
-- [guida completa a errori per principianti](/_posts/guida-completa-a-errori-per-principianti.md)
+- [errori comuni in mindset](/_posts/errori-comuni-in-mindset.md)
+- [come correggere inglese 1](/_posts/come-correggere-inglese-1.md)
+- [capire inglese semplice 0](/_posts/capire-inglese-semplice-0.md)
 
 ---
 

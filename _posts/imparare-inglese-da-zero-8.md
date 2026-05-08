@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Imparare inglese da zero
 
-### Situazione reale:
+### Immagina questo:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,8 +15,8 @@ imparare inglese da zero.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Usa subito nella vita quotidiana
 - Ripeti ogni giorno per 10 minuti
+- Usa subito nella vita quotidiana
 - Impara in contesto, non parole isolate
 
 ### Errore comune
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [imparare inglese da zero 5](/_posts/imparare-inglese-da-zero-5.md)
-- [strategia avanzata di vocabolario](/_posts/strategia-avanzata-di-vocabolario.md)
-- [il metodo più semplice per curiosita](/_posts/il-metodo-più-semplice-per-curiosita.md)
+- [metodo pratico per vocabolario](/_posts/metodo-pratico-per-vocabolario.md)
+- [perché sbaglio inglese 5](/_posts/perché-sbaglio-inglese-5.md)
+- [come mantenere inglese fluente 5](/_posts/come-mantenere-inglese-fluente-5.md)
 
 ---
 

@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Come mantenere inglese fluente
 
-### Caso concreto:
+### Situazione reale:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ come mantenere inglese fluente.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ascolta e ripeti frasi reali
-- Usa subito nella vita quotidiana
 - Impara in contesto, non parole isolate
+- Ascolta e ripeti frasi reali
+- Ripeti ogni giorno per 10 minuti
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [guida completa a vocabolario per principianti](/_posts/guida-completa-a-vocabolario-per-principianti.md)
-- [inglese per lavoro email 5](/_posts/inglese-per-lavoro-email-5.md)
-- [imparare inglese da zero 5](/_posts/imparare-inglese-da-zero-5.md)
+- [come usare tempi verbali inglese 0](/_posts/come-usare-tempi-verbali-inglese-0.md)
+- [metodo immersione totale inglese 4](/_posts/metodo-immersione-totale-inglese-4.md)
+- [perché inglese è così strano 6](/_posts/perché-inglese-è-così-strano-6.md)
 
 ---
 

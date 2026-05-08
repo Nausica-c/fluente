@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Prenotare hotel in inglese
 
-### Situazione reale:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -16,8 +16,8 @@ Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
 - Impara in contesto, non parole isolate
-- Ripeti ogni giorno per 10 minuti
 - Ascolta e ripeti frasi reali
+- Ripeti ogni giorno per 10 minuti
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -33,8 +33,8 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 ### 📚 Articoli correlati
 - [guida completa a curiosita per principianti](/_posts/guida-completa-a-curiosita-per-principianti.md)
-- [perché fallisci con vocabolario e come risolvere](/_posts/perché-fallisci-con-vocabolario-e-come-risolvere.md)
-- [perché fallisci con beginner e come risolvere](/_posts/perché-fallisci-con-beginner-e-come-risolvere.md)
+- [strategia avanzata di mindset](/_posts/strategia-avanzata-di-mindset.md)
+- [miglior metodo per imparare una lingua 3](/_posts/miglior-metodo-per-imparare-una-lingua-3.md)
 
 ---
 

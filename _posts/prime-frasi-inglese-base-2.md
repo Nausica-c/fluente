@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Prime frasi inglese base
 
-### Immagina questo:
+### Situazione reale:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,7 +15,7 @@ prime frasi inglese base.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Usa subito nella vita quotidiana
+- Impara in contesto, non parole isolate
 - Ripeti ogni giorno per 10 minuti
 - Ascolta e ripeti frasi reali
 
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [il metodo più semplice per beginner](/_posts/il-metodo-più-semplice-per-beginner.md)
-- [metodo pratico per curiosita](/_posts/metodo-pratico-per-curiosita.md)
-- [strategia avanzata di business](/_posts/strategia-avanzata-di-business.md)
+- [prenotare hotel in inglese 3](/_posts/prenotare-hotel-in-inglese-3.md)
+- [il metodo più semplice per viaggi](/_posts/il-metodo-più-semplice-per-viaggi.md)
+- [errori comuni in lifelong learner](/_posts/errori-comuni-in-lifelong-learner.md)
 
 ---
 

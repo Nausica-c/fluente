@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Come usare tempi verbali inglese
 
-### Esempio pratico:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,7 +15,7 @@ come usare tempi verbali inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ascolta e ripeti frasi reali
+- Ripeti ogni giorno per 10 minuti
 - Usa subito nella vita quotidiana
 - Impara in contesto, non parole isolate
 
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [perché fallisci con grammatica pratica e come risolvere](/_posts/perché-fallisci-con-grammatica-pratica-e-come-risolvere.md)
-- [ordinare cibo all’estero 5](/_posts/ordinare-cibo-all’estero-5.md)
-- [prenotare hotel in inglese 3](/_posts/prenotare-hotel-in-inglese-3.md)
+- [il metodo più semplice per viaggi](/_posts/il-metodo-più-semplice-per-viaggi.md)
+- [capire inglese semplice 7](/_posts/capire-inglese-semplice-7.md)
+- [ordinare cibo all’estero 6](/_posts/ordinare-cibo-all’estero-6.md)
 
 ---
 

@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Prime frasi inglese base
 
-### Situazione reale:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -16,8 +16,8 @@ Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
 - Impara in contesto, non parole isolate
-- Ascolta e ripeti frasi reali
 - Usa subito nella vita quotidiana
+- Ascolta e ripeti frasi reali
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [il metodo più semplice per lifelong learner](/_posts/il-metodo-più-semplice-per-lifelong-learner.md)
-- [perché fallisci con metodo e come risolvere](/_posts/perché-fallisci-con-metodo-e-come-risolvere.md)
-- [prime frasi inglese base 2](/_posts/prime-frasi-inglese-base-2.md)
+- [colloquio in inglese frasi 3](/_posts/colloquio-in-inglese-frasi-3.md)
+- [parole inglese più usate 5](/_posts/parole-inglese-più-usate-5.md)
+- [come imparare metodo velocemente](/_posts/come-imparare-metodo-velocemente.md)
 
 ---
 

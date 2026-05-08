@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Perché sbaglio inglese
 
-### Caso concreto:
+### Immagina questo:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ perché sbaglio inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Impara in contesto, non parole isolate
-- Usa subito nella vita quotidiana
+- Ascolta e ripeti frasi reali
 - Ripeti ogni giorno per 10 minuti
+- Impara in contesto, non parole isolate
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [errori comuni in mindset](/_posts/errori-comuni-in-mindset.md)
-- [strategia avanzata di vocabolario](/_posts/strategia-avanzata-di-vocabolario.md)
-- [regole inglese spiegate semplice 1](/_posts/regole-inglese-spiegate-semplice-1.md)
+- [perché sbaglio inglese 0](/_posts/perché-sbaglio-inglese-0.md)
+- [prenotare hotel in inglese 1](/_posts/prenotare-hotel-in-inglese-1.md)
+- [parole inglese più usate 3](/_posts/parole-inglese-più-usate-3.md)
 
 ---
 

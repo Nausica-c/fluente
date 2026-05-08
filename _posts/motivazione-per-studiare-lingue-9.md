@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Motivazione per studiare lingue
 
-### Esempio pratico:
+### Situazione reale:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ motivazione per studiare lingue.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ripeti ogni giorno per 10 minuti
-- Impara in contesto, non parole isolate
 - Usa subito nella vita quotidiana
+- Ascolta e ripeti frasi reali
+- Impara in contesto, non parole isolate
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [guida completa a mindset per principianti](/_posts/guida-completa-a-mindset-per-principianti.md)
-- [colloquio in inglese frasi 3](/_posts/colloquio-in-inglese-frasi-3.md)
-- [miglior metodo per imparare una lingua 9](/_posts/miglior-metodo-per-imparare-una-lingua-9.md)
+- [motivazione per studiare lingue 0](/_posts/motivazione-per-studiare-lingue-0.md)
+- [imparare inglese da zero 5](/_posts/imparare-inglese-da-zero-5.md)
+- [perché fallisci con mindset e come risolvere](/_posts/perché-fallisci-con-mindset-e-come-risolvere.md)
 
 ---
 
