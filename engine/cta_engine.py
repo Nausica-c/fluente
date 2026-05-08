@@ -11,6 +11,10 @@ def get_cta(cluster):
             "tone": "gentle"
         },
 
+        "metodo": {
+    "text": "Scopri un metodo che ti fa finalmente parlare inglese senza studiare ore",
+    "tone": "high-intent"
+},
         "speaking": {
             "text": "Sblocca finalmente il tuo parlato in inglese",
             "tone": "urgent"
