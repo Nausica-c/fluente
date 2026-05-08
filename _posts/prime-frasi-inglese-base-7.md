@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Prime frasi inglese base
 
-### Esempio pratico:
+### Immagina questo:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ prime frasi inglese base.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Impara in contesto, non parole isolate
-- Ascolta e ripeti frasi reali
 - Usa subito nella vita quotidiana
+- Impara in contesto, non parole isolate
+- Ripeti ogni giorno per 10 minuti
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [errori comuni in curiosita](/_posts/errori-comuni-in-curiosita.md)
-- [perché fallisci con grammatica pratica e come risolvere](/_posts/perché-fallisci-con-grammatica-pratica-e-come-risolvere.md)
-- [errori comuni in vocabolario](/_posts/errori-comuni-in-vocabolario.md)
+- [parole inglese più usate 3](/parole-inglese-più-usate-3/)
+- [prenotare hotel in inglese 6](/prenotare-hotel-in-inglese-6/)
+- [come mantenere inglese fluente 2](/come-mantenere-inglese-fluente-2/)
 
 ---
 

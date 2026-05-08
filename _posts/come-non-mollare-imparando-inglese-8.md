@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Come non mollare imparando inglese
 
-### Situazione reale:
+### Immagina questo:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ come non mollare imparando inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Impara in contesto, non parole isolate
-- Usa subito nella vita quotidiana
 - Ripeti ogni giorno per 10 minuti
+- Ascolta e ripeti frasi reali
+- Impara in contesto, non parole isolate
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [inglese per lavoro email 0](/_posts/inglese-per-lavoro-email-0.md)
-- [metodo immersione totale inglese 1](/_posts/metodo-immersione-totale-inglese-1.md)
-- [guida completa a errori per principianti](/_posts/guida-completa-a-errori-per-principianti.md)
+- [metodo pratico per metodo](/metodo-pratico-per-metodo/)
+- [strategia efficace per imparare lingue 3](/strategia-efficace-per-imparare-lingue-3/)
+- [riunioni internazionali inglese 9](/riunioni-internazionali-inglese-9/)
 
 ---
 

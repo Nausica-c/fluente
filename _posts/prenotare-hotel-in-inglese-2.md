@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Prenotare hotel in inglese
 
-### Immagina questo:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -17,7 +17,7 @@ Questa è una delle situazioni più comuni per chi studia inglese.
 ### Metodo pratico
 - Impara in contesto, non parole isolate
 - Ascolta e ripeti frasi reali
-- Usa subito nella vita quotidiana
+- Ripeti ogni giorno per 10 minuti
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [prime frasi inglese base 2](/_posts/prime-frasi-inglese-base-2.md)
-- [il metodo più semplice per grammatica pratica](/_posts/il-metodo-più-semplice-per-grammatica-pratica.md)
-- [come imparare errori velocemente](/_posts/come-imparare-errori-velocemente.md)
+- [vocabolario inglese quotidiano 4](/vocabolario-inglese-quotidiano-4/)
+- [prime frasi inglese base 1](/prime-frasi-inglese-base-1/)
+- [perché inglese è così strano 5](/perché-inglese-è-così-strano-5/)
 
 ---
 

@@ -15,9 +15,9 @@ come usare tempi verbali inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ripeti ogni giorno per 10 minuti
+- Ascolta e ripeti frasi reali
 - Usa subito nella vita quotidiana
-- Impara in contesto, non parole isolate
+- Ripeti ogni giorno per 10 minuti
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [il metodo più semplice per viaggi](/_posts/il-metodo-più-semplice-per-viaggi.md)
-- [capire inglese semplice 7](/_posts/capire-inglese-semplice-7.md)
-- [ordinare cibo all’estero 6](/_posts/ordinare-cibo-all’estero-6.md)
+- [perché sbaglio inglese 7](/perché-sbaglio-inglese-7/)
+- [miglior metodo per imparare una lingua 7](/miglior-metodo-per-imparare-una-lingua-7/)
+- [curiosità lingua inglese 1](/curiosità-lingua-inglese-1/)
 
 ---
 

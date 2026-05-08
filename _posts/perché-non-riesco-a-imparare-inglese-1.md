@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Perché non riesco a imparare inglese
 
-### Immagina questo:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ perché non riesco a imparare inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ripeti ogni giorno per 10 minuti
-- Usa subito nella vita quotidiana
 - Impara in contesto, non parole isolate
+- Ripeti ogni giorno per 10 minuti
+- Ascolta e ripeti frasi reali
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [prime frasi inglese base 1](/_posts/prime-frasi-inglese-base-1.md)
-- [riunioni internazionali inglese 7](/_posts/riunioni-internazionali-inglese-7.md)
-- [tecnica per imparare inglese senza studiare ore 8](/_posts/tecnica-per-imparare-inglese-senza-studiare-ore-8.md)
+- [strategia efficace per imparare lingue 7](/strategia-efficace-per-imparare-lingue-7/)
+- [come mantenere inglese fluente 3](/come-mantenere-inglese-fluente-3/)
+- [inglese per lavoro email 2](/inglese-per-lavoro-email-2/)
 
 ---
 

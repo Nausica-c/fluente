@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Tecnica per imparare inglese senza studiare ore
 
-### Situazione reale:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -16,8 +16,8 @@ Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
 - Ripeti ogni giorno per 10 minuti
-- Impara in contesto, non parole isolate
 - Usa subito nella vita quotidiana
+- Ascolta e ripeti frasi reali
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [capire inglese semplice 0](/_posts/capire-inglese-semplice-0.md)
-- [guida completa a errori per principianti](/_posts/guida-completa-a-errori-per-principianti.md)
-- [regole inglese spiegate semplice 7](/_posts/regole-inglese-spiegate-semplice-7.md)
+- [vocabolario inglese quotidiano 6](/vocabolario-inglese-quotidiano-6/)
+- [strategia avanzata di errori](/strategia-avanzata-di-errori/)
+- [guida completa a metodo per principianti](/guida-completa-a-metodo-per-principianti/)
 
 ---
 

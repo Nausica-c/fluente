@@ -15,9 +15,9 @@ come correggere inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ascolta e ripeti frasi reali
-- Ripeti ogni giorno per 10 minuti
+- Usa subito nella vita quotidiana
 - Impara in contesto, non parole isolate
+- Ascolta e ripeti frasi reali
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [inglese per lavoro email 0](/_posts/inglese-per-lavoro-email-0.md)
-- [perché inglese è così strano 5](/_posts/perché-inglese-è-così-strano-5.md)
-- [strategia avanzata di grammatica pratica](/_posts/strategia-avanzata-di-grammatica-pratica.md)
+- [prenotare hotel in inglese 9](/prenotare-hotel-in-inglese-9/)
+- [perché fallisci con curiosita e come risolvere](/perché-fallisci-con-curiosita-e-come-risolvere/)
+- [metodo pratico per grammatica pratica](/metodo-pratico-per-grammatica-pratica/)
 
 ---
 

@@ -15,8 +15,8 @@ capire inglese semplice.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Usa subito nella vita quotidiana
 - Ripeti ogni giorno per 10 minuti
+- Usa subito nella vita quotidiana
 - Impara in contesto, non parole isolate
 
 ### Errore comune
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [il metodo più semplice per lifelong learner](/_posts/il-metodo-più-semplice-per-lifelong-learner.md)
-- [inglese per lavoro email 9](/_posts/inglese-per-lavoro-email-9.md)
-- [perché non riesco a imparare inglese 7](/_posts/perché-non-riesco-a-imparare-inglese-7.md)
+- [motivazione per studiare lingue 8](/motivazione-per-studiare-lingue-8/)
+- [come mantenere inglese fluente 1](/come-mantenere-inglese-fluente-1/)
+- [prime frasi inglese base 9](/prime-frasi-inglese-base-9/)
 
 ---
 

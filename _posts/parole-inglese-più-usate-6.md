@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Parole inglese più usate
 
-### Immagina questo:
+### Esempio pratico:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ parole inglese più usate.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Impara in contesto, non parole isolate
 - Ripeti ogni giorno per 10 minuti
 - Ascolta e ripeti frasi reali
+- Impara in contesto, non parole isolate
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [come usare tempi verbali inglese 0](/_posts/come-usare-tempi-verbali-inglese-0.md)
-- [motivazione per studiare lingue 8](/_posts/motivazione-per-studiare-lingue-8.md)
-- [regole inglese spiegate semplice 7](/_posts/regole-inglese-spiegate-semplice-7.md)
+- [parole inglese più usate 5](/parole-inglese-più-usate-5/)
+- [motivazione per studiare lingue 5](/motivazione-per-studiare-lingue-5/)
+- [capire inglese semplice 2](/capire-inglese-semplice-2/)
 
 ---
 

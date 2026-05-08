@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Colloquio in inglese frasi
 
-### Situazione reale:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -17,7 +17,7 @@ Questa è una delle situazioni più comuni per chi studia inglese.
 ### Metodo pratico
 - Usa subito nella vita quotidiana
 - Ascolta e ripeti frasi reali
-- Impara in contesto, non parole isolate
+- Ripeti ogni giorno per 10 minuti
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [perfezionare inglese ogni giorno 8](/_posts/perfezionare-inglese-ogni-giorno-8.md)
-- [guida completa a mindset per principianti](/_posts/guida-completa-a-mindset-per-principianti.md)
-- [errori comuni in curiosita](/_posts/errori-comuni-in-curiosita.md)
+- [motivazione per studiare lingue 8](/motivazione-per-studiare-lingue-8/)
+- [vocabolario inglese quotidiano 3](/vocabolario-inglese-quotidiano-3/)
+- [regole inglese spiegate semplice 1](/regole-inglese-spiegate-semplice-1/)
 
 ---
 

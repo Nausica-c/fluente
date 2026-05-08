@@ -16,8 +16,8 @@ Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
 - Usa subito nella vita quotidiana
-- Ascolta e ripeti frasi reali
 - Impara in contesto, non parole isolate
+- Ascolta e ripeti frasi reali
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [motivazione per studiare lingue 0](/_posts/motivazione-per-studiare-lingue-0.md)
-- [imparare inglese da zero 5](/_posts/imparare-inglese-da-zero-5.md)
-- [perché fallisci con mindset e come risolvere](/_posts/perché-fallisci-con-mindset-e-come-risolvere.md)
+- [prenotare hotel in inglese 6](/prenotare-hotel-in-inglese-6/)
+- [perfezionare inglese ogni giorno 0](/perfezionare-inglese-ogni-giorno-0/)
+- [grammatica inglese facile esempi 5](/grammatica-inglese-facile-esempi-5/)
 
 ---
 

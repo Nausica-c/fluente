@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Ordinare cibo all’estero
 
-### Immagina questo:
+### Situazione reale:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ ordinare cibo all’estero.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
+- Ascolta e ripeti frasi reali
 - Usa subito nella vita quotidiana
 - Ripeti ogni giorno per 10 minuti
-- Impara in contesto, non parole isolate
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [perché fallisci con business e come risolvere](/_posts/perché-fallisci-con-business-e-come-risolvere.md)
-- [prenotare hotel in inglese 2](/_posts/prenotare-hotel-in-inglese-2.md)
-- [guida completa a mindset per principianti](/_posts/guida-completa-a-mindset-per-principianti.md)
+- [metodo pratico per mindset](/metodo-pratico-per-mindset/)
+- [perché fallisci con grammatica pratica e come risolvere](/perché-fallisci-con-grammatica-pratica-e-come-risolvere/)
+- [guida completa a mindset per principianti](/guida-completa-a-mindset-per-principianti/)
 
 ---
 

@@ -15,9 +15,9 @@ capire inglese semplice.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Usa subito nella vita quotidiana
 - Impara in contesto, non parole isolate
 - Ascolta e ripeti frasi reali
+- Usa subito nella vita quotidiana
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [perché sbaglio inglese 7](/_posts/perché-sbaglio-inglese-7.md)
-- [il metodo più semplice per viaggi](/_posts/il-metodo-più-semplice-per-viaggi.md)
-- [strategia avanzata di viaggi](/_posts/strategia-avanzata-di-viaggi.md)
+- [prime frasi inglese base 2](/prime-frasi-inglese-base-2/)
+- [prenotare hotel in inglese 6](/prenotare-hotel-in-inglese-6/)
+- [come non mollare imparando inglese 2](/come-non-mollare-imparando-inglese-2/)
 
 ---
 

@@ -15,9 +15,9 @@ perfezionare inglese ogni giorno.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ascolta e ripeti frasi reali
 - Impara in contesto, non parole isolate
 - Ripeti ogni giorno per 10 minuti
+- Ascolta e ripeti frasi reali
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [parole inglese più usate 5](/_posts/parole-inglese-più-usate-5.md)
-- [come non mollare imparando inglese 5](/_posts/come-non-mollare-imparando-inglese-5.md)
-- [parole inglese strane significato 7](/_posts/parole-inglese-strane-significato-7.md)
+- [come imparare curiosita velocemente](/come-imparare-curiosita-velocemente/)
+- [perché fallisci con viaggi e come risolvere](/perché-fallisci-con-viaggi-e-come-risolvere/)
+- [come non mollare imparando inglese 3](/come-non-mollare-imparando-inglese-3/)
 
 ---
 

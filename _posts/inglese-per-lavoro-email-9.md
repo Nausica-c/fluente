@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Inglese per lavoro email
 
-### Esempio pratico:
+### Situazione reale:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ inglese per lavoro email.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Impara in contesto, non parole isolate
 - Ripeti ogni giorno per 10 minuti
 - Ascolta e ripeti frasi reali
+- Impara in contesto, non parole isolate
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [colloquio in inglese frasi 3](/_posts/colloquio-in-inglese-frasi-3.md)
-- [metodo pratico per business](/_posts/metodo-pratico-per-business.md)
-- [guida completa a viaggi per principianti](/_posts/guida-completa-a-viaggi-per-principianti.md)
+- [come non mollare imparando inglese 2](/come-non-mollare-imparando-inglese-2/)
+- [riunioni internazionali inglese 0](/riunioni-internazionali-inglese-0/)
+- [come imparare vocabolario velocemente](/come-imparare-vocabolario-velocemente/)
 
 ---
 

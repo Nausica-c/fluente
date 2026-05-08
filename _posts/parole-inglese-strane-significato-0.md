@@ -15,8 +15,8 @@ parole inglese strane significato.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
+- Impara in contesto, non parole isolate
 - Ripeti ogni giorno per 10 minuti
-- Usa subito nella vita quotidiana
 - Ascolta e ripeti frasi reali
 
 ### Errore comune
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [come imparare metodo velocemente](/_posts/come-imparare-metodo-velocemente.md)
-- [perché fallisci con mindset e come risolvere](/_posts/perché-fallisci-con-mindset-e-come-risolvere.md)
-- [come imparare errori velocemente](/_posts/come-imparare-errori-velocemente.md)
+- [grammatica inglese facile esempi 2](/grammatica-inglese-facile-esempi-2/)
+- [come imparare curiosita velocemente](/come-imparare-curiosita-velocemente/)
+- [prenotare hotel in inglese 1](/prenotare-hotel-in-inglese-1/)
 
 ---
 

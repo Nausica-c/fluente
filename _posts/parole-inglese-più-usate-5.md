@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [errori comuni in metodo](/_posts/errori-comuni-in-metodo.md)
-- [il metodo più semplice per metodo](/_posts/il-metodo-più-semplice-per-metodo.md)
-- [metodo immersione totale inglese 0](/_posts/metodo-immersione-totale-inglese-0.md)
+- [errori comuni in errori](/errori-comuni-in-errori/)
+- [parlare in aeroporto in inglese 1](/parlare-in-aeroporto-in-inglese-1/)
+- [guida completa a metodo per principianti](/guida-completa-a-metodo-per-principianti/)
 
 ---
 

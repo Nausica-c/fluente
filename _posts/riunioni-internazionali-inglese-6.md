@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Riunioni internazionali inglese
 
-### Situazione reale:
+### Immagina questo:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,8 +15,8 @@ riunioni internazionali inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Usa subito nella vita quotidiana
 - Ripeti ogni giorno per 10 minuti
+- Usa subito nella vita quotidiana
 - Impara in contesto, non parole isolate
 
 ### Errore comune
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [strategia efficace per imparare lingue 9](/_posts/strategia-efficace-per-imparare-lingue-9.md)
-- [il metodo più semplice per beginner](/_posts/il-metodo-più-semplice-per-beginner.md)
-- [errori comuni in metodo](/_posts/errori-comuni-in-metodo.md)
+- [come usare tempi verbali inglese 3](/come-usare-tempi-verbali-inglese-3/)
+- [il metodo più semplice per beginner](/il-metodo-più-semplice-per-beginner/)
+- [ordinare cibo all’estero 6](/ordinare-cibo-all’estero-6/)
 
 ---
 

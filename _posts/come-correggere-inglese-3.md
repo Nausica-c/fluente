@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Come correggere inglese
 
-### Situazione reale:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -16,8 +16,8 @@ Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
 - Impara in contesto, non parole isolate
+- Ripeti ogni giorno per 10 minuti
 - Usa subito nella vita quotidiana
-- Ascolta e ripeti frasi reali
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [strategia avanzata di grammatica pratica](/_posts/strategia-avanzata-di-grammatica-pratica.md)
-- [inglese per lavoro email 7](/_posts/inglese-per-lavoro-email-7.md)
-- [parlare in aeroporto in inglese 5](/_posts/parlare-in-aeroporto-in-inglese-5.md)
+- [perfezionare inglese ogni giorno 9](/perfezionare-inglese-ogni-giorno-9/)
+- [parlare in aeroporto in inglese 0](/parlare-in-aeroporto-in-inglese-0/)
+- [il metodo più semplice per errori](/il-metodo-più-semplice-per-errori/)
 
 ---
 

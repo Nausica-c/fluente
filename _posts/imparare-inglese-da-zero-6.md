@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Imparare inglese da zero
 
-### Esempio pratico:
+### Situazione reale:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ imparare inglese da zero.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
+- Impara in contesto, non parole isolate
 - Ascolta e ripeti frasi reali
 - Ripeti ogni giorno per 10 minuti
-- Usa subito nella vita quotidiana
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [metodo pratico per business](/_posts/metodo-pratico-per-business.md)
-- [strategia avanzata di lifelong learner](/_posts/strategia-avanzata-di-lifelong-learner.md)
-- [metodo pratico per mindset](/_posts/metodo-pratico-per-mindset.md)
+- [metodo immersione totale inglese 0](/metodo-immersione-totale-inglese-0/)
+- [ordinare cibo all’estero 9](/ordinare-cibo-all’estero-9/)
+- [perché inglese è così strano 8](/perché-inglese-è-così-strano-8/)
 
 ---
 

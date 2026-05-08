@@ -15,9 +15,9 @@ vocabolario inglese quotidiano.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ripeti ogni giorno per 10 minuti
 - Ascolta e ripeti frasi reali
-- Impara in contesto, non parole isolate
+- Ripeti ogni giorno per 10 minuti
+- Usa subito nella vita quotidiana
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [il metodo più semplice per metodo](/_posts/il-metodo-più-semplice-per-metodo.md)
-- [miglior metodo per imparare una lingua 9](/_posts/miglior-metodo-per-imparare-una-lingua-9.md)
-- [parole inglese più usate 6](/_posts/parole-inglese-più-usate-6.md)
+- [guida completa a grammatica pratica per principianti](/guida-completa-a-grammatica-pratica-per-principianti/)
+- [capire inglese semplice 5](/capire-inglese-semplice-5/)
+- [perché inglese è così strano 7](/perché-inglese-è-così-strano-7/)
 
 ---
 

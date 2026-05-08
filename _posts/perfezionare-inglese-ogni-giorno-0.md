@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Perfezionare inglese ogni giorno
 
-### Situazione reale:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,8 +15,8 @@ perfezionare inglese ogni giorno.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ripeti ogni giorno per 10 minuti
 - Usa subito nella vita quotidiana
+- Ripeti ogni giorno per 10 minuti
 - Impara in contesto, non parole isolate
 
 ### Errore comune
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [grammatica inglese facile esempi 0](/_posts/grammatica-inglese-facile-esempi-0.md)
-- [guida completa a business per principianti](/_posts/guida-completa-a-business-per-principianti.md)
-- [come imparare business velocemente](/_posts/come-imparare-business-velocemente.md)
+- [perché inglese è così strano 7](/perché-inglese-è-così-strano-7/)
+- [guida completa a lifelong learner per principianti](/guida-completa-a-lifelong-learner-per-principianti/)
+- [come mantenere inglese fluente 3](/come-mantenere-inglese-fluente-3/)
 
 ---
 

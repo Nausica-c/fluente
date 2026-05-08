@@ -15,9 +15,9 @@ parlare in aeroporto in inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Impara in contesto, non parole isolate
-- Usa subito nella vita quotidiana
 - Ascolta e ripeti frasi reali
+- Usa subito nella vita quotidiana
+- Impara in contesto, non parole isolate
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [come imparare curiosita velocemente](/_posts/come-imparare-curiosita-velocemente.md)
-- [strategia avanzata di viaggi](/_posts/strategia-avanzata-di-viaggi.md)
-- [guida completa a grammatica pratica per principianti](/_posts/guida-completa-a-grammatica-pratica-per-principianti.md)
+- [riunioni internazionali inglese 8](/riunioni-internazionali-inglese-8/)
+- [come correggere inglese 4](/come-correggere-inglese-4/)
+- [parlare in aeroporto in inglese 5](/parlare-in-aeroporto-in-inglese-5/)
 
 ---
 

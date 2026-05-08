@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Metodo immersione totale inglese
 
-### Immagina questo:
+### Esempio pratico:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,9 +15,9 @@ metodo immersione totale inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Impara in contesto, non parole isolate
+- Ripeti ogni giorno per 10 minuti
 - Ascolta e ripeti frasi reali
-- Usa subito nella vita quotidiana
+- Impara in contesto, non parole isolate
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [errori comuni in mindset](/_posts/errori-comuni-in-mindset.md)
-- [come correggere inglese 1](/_posts/come-correggere-inglese-1.md)
-- [capire inglese semplice 0](/_posts/capire-inglese-semplice-0.md)
+- [come mantenere inglese fluente 2](/come-mantenere-inglese-fluente-2/)
+- [motivazione per studiare lingue 5](/motivazione-per-studiare-lingue-5/)
+- [miglior metodo per imparare una lingua 9](/miglior-metodo-per-imparare-una-lingua-9/)
 
 ---
 

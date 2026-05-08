@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Frasi utili inglese base
 
-### Situazione reale:
+### Esempio pratico:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -16,8 +16,8 @@ Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
 - Ascolta e ripeti frasi reali
-- Ripeti ogni giorno per 10 minuti
 - Impara in contesto, non parole isolate
+- Usa subito nella vita quotidiana
 
 ### Errore comune
 Studiare liste di parole senza usarle nella vita reale.
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [come imparare lifelong learner velocemente](/_posts/come-imparare-lifelong-learner-velocemente.md)
-- [metodo pratico per grammatica pratica](/_posts/metodo-pratico-per-grammatica-pratica.md)
-- [come imparare mindset velocemente](/_posts/come-imparare-mindset-velocemente.md)
+- [frasi utili inglese base 5](/frasi-utili-inglese-base-5/)
+- [come imparare vocabolario velocemente](/come-imparare-vocabolario-velocemente/)
+- [come imparare beginner velocemente](/come-imparare-beginner-velocemente/)
 
 ---
 

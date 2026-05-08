@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Parole inglese strane significato
 
-### Immagina questo:
+### Situazione reale:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [metodo immersione totale inglese 1](/_posts/metodo-immersione-totale-inglese-1.md)
-- [metodo pratico per vocabolario](/_posts/metodo-pratico-per-vocabolario.md)
-- [metodo immersione totale inglese 0](/_posts/metodo-immersione-totale-inglese-0.md)
+- [perché fallisci con vocabolario e come risolvere](/perché-fallisci-con-vocabolario-e-come-risolvere/)
+- [parole inglese più usate 1](/parole-inglese-più-usate-1/)
+- [colloquio in inglese frasi 8](/colloquio-in-inglese-frasi-8/)
 
 ---
 

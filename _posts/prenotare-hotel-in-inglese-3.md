@@ -7,7 +7,7 @@ date: 2026-05-08
 
 ## Prenotare hotel in inglese
 
-### Immagina questo:
+### Caso concreto:
 Questo è esattamente ciò che devi saper fare se vuoi migliorare velocemente.
 
 ### Situazione reale
@@ -15,7 +15,7 @@ prenotare hotel in inglese.
 Questa è una delle situazioni più comuni per chi studia inglese.
 
 ### Metodo pratico
-- Ripeti ogni giorno per 10 minuti
+- Impara in contesto, non parole isolate
 - Ascolta e ripeti frasi reali
 - Usa subito nella vita quotidiana
 
@@ -32,9 +32,9 @@ Perché il cervello ricorda meglio ciò che usa in contesto reale.
 
 
 ### 📚 Articoli correlati
-- [ordinare cibo all’estero 0](/_posts/ordinare-cibo-all’estero-0.md)
-- [errori comuni in business](/_posts/errori-comuni-in-business.md)
-- [come usare tempi verbali inglese 0](/_posts/come-usare-tempi-verbali-inglese-0.md)
+- [frasi utili inglese base 9](/frasi-utili-inglese-base-9/)
+- [perché inglese è così strano 6](/perché-inglese-è-così-strano-6/)
+- [perché fallisci con metodo e come risolvere](/perché-fallisci-con-metodo-e-come-risolvere/)
 
 ---
 
